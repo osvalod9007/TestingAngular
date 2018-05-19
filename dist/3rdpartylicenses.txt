@@ -93,7 +93,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-webpack@4.6.0
+webpack@4.8.3
 MIT
 Copyright JS Foundation and other contributors
 
@@ -168,7 +168,7 @@ font-awesome@4.7.0
 (OFL-1.1 AND MIT)
 (OFL-1.1 AND MIT)
 
-core-js@2.5.5
+core-js@2.5.6
 MIT
 Copyright (c) 2014-2018 Denis Pushkarev
 
@@ -418,11 +418,11 @@ Apache License
  See the License for the specific language governing permissions and
  limitations under the License.
 
-@angular/platform-browser@6.0.0
+@angular/platform-browser@6.0.2
 MIT
 MIT
 
-tslib@1.9.0
+tslib@1.9.1
 Apache-2.0
 Apache License
 
@@ -480,15 +480,15 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 END OF TERMS AND CONDITIONS
 
-@angular/common@6.0.0
+@angular/common@6.0.2
 MIT
 MIT
 
-@angular/core@6.0.0
+@angular/core@6.0.2
 MIT
 MIT
 
-@angular/router@6.0.0
+@angular/router@6.0.2
 MIT
 MIT
 
